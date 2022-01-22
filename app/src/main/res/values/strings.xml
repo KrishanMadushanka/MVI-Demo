@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MVI-Architecture</string>
+    <string name="show_users">Show Users</string>
+</resources>
